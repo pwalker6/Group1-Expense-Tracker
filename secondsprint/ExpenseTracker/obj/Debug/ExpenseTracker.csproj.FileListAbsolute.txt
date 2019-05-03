@@ -1,0 +1,28 @@
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csprojAssemblyReference.cache
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Login_Form.resources
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.UserForm.resources
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Home.resources
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.AddCategories.resources
+C:\Users\CRANE771\OneDrive\Class\Spring 2019\CITA - 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.DisplayAllCategories.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csprojAssemblyReference.cache
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.AddCategories.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.DisplayAllCategories.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Home.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Login_Form.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.UserForm.resources
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\WALKER468\Downloads\ExpenseTracker (1)\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
